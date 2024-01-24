@@ -10,7 +10,7 @@ Machine learning model for cost prediction
 User-friendly interface for input and result retrieval
 # Usage:
 Clone the repository: git clone [repository_url]
-Run the prediction script: python predict_insurance_cost.py
+Run the prediction script: Predicting Insurance Costs.ipynb
 Follow the prompts to input relevant data for prediction.
 # Dataset:
 The dataset used for training is included in the data directory. Feel free to explore and expand the dataset for improved model performance.
